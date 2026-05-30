@@ -9,8 +9,8 @@ Varenholzer Straße 26
 32689 Kalletal  
 Deutschland
 
-Steuernummer: 123/1234/1234  [HIER NACHTRAGEN]  
-Finanzamt Detmold [?]  
+Steuernummer: 329/505/3444 
+Finanzamt Lemgo  
 
 ### Kontakt
 
