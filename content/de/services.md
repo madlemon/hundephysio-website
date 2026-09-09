@@ -56,6 +56,27 @@ Hier findest du meine Leistungen im Überblick.
 
 ---
 
+### ⚡ Elektrotherapie für Hunde
+
+{{< columns count=2 >}}
+{{< column >}}
+- Als Ergänzung zu meiner physiotherapeutischen Behandlung setze ich das AmpliVet ein. Die speziell für Tiere entwickelte Elektrotherapie kann
+je nach Befund dabei unterstützen, Schmerzen zu lindern, verspannte Muskulatur zu entspannen und geschwächte Muskulatur gezielt zu
+aktivieren.
+
+{{< /column >}}
+{{< column >}}
+- Besonders in der Rehabilitation nach Verletzungen oder Operationen sowie bei Beschwerden des Bewegungsapparates kann AmpliVet eine sinnvolle
+Ergänzung zu manueller Therapie und Bewegungstraining sein.
+
+- Die Anwendung wird immer individuell auf den jeweiligen Hund und seine Bedürfnisse abgestimmt.
+{{< /column >}}
+{{< /columns >}}
+
+
+
+---
+
 {{< columns count=2 >}}
 {{< column >}}
 
